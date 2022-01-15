@@ -1,0 +1,30 @@
+Tahu, 16.3, 1.4, 19.4, 7.8
+Nasi Putih 1 Porsi, 45.2,13.9,26.3,0 
+Nasi Putih 1/2 Porsi, 34.0, 1.5, 16.0, 0
+Pecel Lele, 34.0, 1.5, 16.0, 1.1
+Bakso, 4.1, 2.5, 9.2, 0
+Rendang Sapi, 22.6, 7.8, 7.9, 0.0
+Bubur Ayam, 2.3, 4.9, 1.1, 0
+Minyak Kedelai, 0, 0, 10.2, 0
+Jagung Muda Kuning Mentah, 5.1, 31.5, 9.7, 1.3
+Nasi Tim, 2.4, 26.0, 0.4, 0.5
+Nasi Merah, 2.8, 32.5, 0.4, 0.3
+Jagung Muda Rebus, 5.0, 30.3, 0.7, 0.8
+Ketan Hitam Matang, 4.0,37.3,1.2,0.3
+Tapai Ketan Hitam,  3.8, 34.4, 1.0, 0.3
+Ketan Putih Matang, 3.0, 35.7, 0.4, 0.2
+Tapai Ketan Putih, 3.0, 37.5, 0.5, 0.6
+Bihun Goreng Instan, 4.7, 82.1, 0.1, 1.2
+Mie Basah, 0.6, 14.0, 3.3, 0.1
+Biskuit, 6.9, 75.1, 14.4, 2.1
+Kue Bakpia, 8.7, 44.1, 6.7, 0.9
+Bakwan, 8.2, 39.0, 10.2, 3.4
+Baruasa, 6.5, 79.3, 8.2, 0
+Brem, 3.4, 58.0, 0.4, 0.0
+Cake Tape, 4.9, 50.1, 11.5, 1.4
+Cangkuning, 2.8, 31.4, 7.5, 0
+Dodol Bali, 3.7, 65.9, 2.1, 0.4
+Dodol Kedondong, 1.9, 63.8, 7.6, 1.0
+Ayam Goreng Pioner Dada, 37.4, 0.6, 14.7, 0.0
+Bulgogi, 11.4, 1.4, 4.9, 1.7
+Gulai Kambing, 4.2, 6.2, 9.4, 0.0
